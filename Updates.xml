@@ -6,37 +6,37 @@
   <Name>CumulusPackage</Name>
   <DisplayName>Cumulus</DisplayName>
   <Description>Simple weather application, forked from Typhoon and ported to Qt framework. This version is unstable and subjective to change or be removed without notice.</Description>
-  <Version>3.0.3</Version>
-  <ReleaseDate>2017-05-30</ReleaseDate>
+  <Version>3.1.6</Version>
+  <ReleaseDate>2017-10-14</ReleaseDate>
   <Default>true</Default>
   <Script>script.qs</Script>
-  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
+  <UpdateFile OS="Any" CompressedSize="0" UncompressedSize="0"/>
   <Licenses>
-   <License name="The GNU General Public License" file="license.txt"/>
+   <License file="license.txt" name="The GNU General Public License"/>
   </Licenses>
-  <SHA1>685a9585dbf1343bb5c0272cadf101e9f0b7aac6</SHA1>
+  <SHA1>3ab1790efcca57ae8ecd3dc3c3bf8fc68c8154d0</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>CumulusPackage.Cumulus</Name>
   <DisplayName>Cumulus</DisplayName>
   <Description>Based on Stormcloud, forked from Typhoon and ported to Qt framework. Cumulus is here to show you the weather.
   </Description>
-  <Version>3.1.1</Version>
-  <ReleaseDate>2017-08-22</ReleaseDate>
+  <Version>3.1.6</Version>
+  <ReleaseDate>2017-10-14</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="6705349" OS="Any" CompressedSize="1626735"/>
+  <UpdateFile OS="Any" CompressedSize="2312915" UncompressedSize="14875401"/>
   <DownloadableArchives>Cumulus.7z</DownloadableArchives>
-  <SHA1>853122c31b6dfe6376c88c55f6904e3549204ade</SHA1>
+  <SHA1>7ac02b67bd4e325649b604aa084ee87a9a0e0312</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>CumulusPackage.Cumulus.Libraries</Name>
   <DisplayName>Libraries</DisplayName>
   <Description>Qt libraries required to run Cumulus.</Description>
-  <Version>3.1.0</Version>
-  <ReleaseDate>2017-08-21</ReleaseDate>
+  <Version>3.1.5</Version>
+  <ReleaseDate>2017-10-12</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="61958648" OS="Any" CompressedSize="16964485"/>
+  <UpdateFile OS="Any" CompressedSize="16150204" UncompressedSize="62047056"/>
   <DownloadableArchives>Libraries.7z</DownloadableArchives>
-  <SHA1>83647a6cc112096b6a4e6578c96ca62e29694a7f</SHA1>
+  <SHA1>259b476c7f9a883991bcc6283aa576a7e269a464</SHA1>
  </PackageUpdate>
 </Updates>
