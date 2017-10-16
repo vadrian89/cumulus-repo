@@ -10,23 +10,23 @@
   <ReleaseDate>2017-10-14</ReleaseDate>
   <Default>true</Default>
   <Script>script.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="0" UncompressedSize="0"/>
+  <UpdateFile CompressedSize="0" UncompressedSize="0" OS="Any"/>
   <Licenses>
    <License file="license.txt" name="The GNU General Public License"/>
   </Licenses>
-  <SHA1>3ab1790efcca57ae8ecd3dc3c3bf8fc68c8154d0</SHA1>
+  <SHA1>99815b9691a6d893e1a22b76a3d4607b1f185f5a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>CumulusPackage.Cumulus</Name>
   <DisplayName>Cumulus</DisplayName>
   <Description>Based on Stormcloud, forked from Typhoon and ported to Qt framework. Cumulus is here to show you the weather.
   </Description>
-  <Version>3.1.6</Version>
-  <ReleaseDate>2017-10-14</ReleaseDate>
+  <Version>3.1.7</Version>
+  <ReleaseDate>2017-10-16</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="2312915" UncompressedSize="14875401"/>
+  <UpdateFile CompressedSize="2314625" UncompressedSize="14875401" OS="Any"/>
   <DownloadableArchives>Cumulus.7z</DownloadableArchives>
-  <SHA1>7ac02b67bd4e325649b604aa084ee87a9a0e0312</SHA1>
+  <SHA1>8c9e1d172e3df15f126c1457c9c9d8753f2ea7c6</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>CumulusPackage.Cumulus.Libraries</Name>
@@ -35,8 +35,8 @@
   <Version>3.1.5</Version>
   <ReleaseDate>2017-10-12</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="16150204" UncompressedSize="62047056"/>
+  <UpdateFile CompressedSize="16150204" UncompressedSize="62047056" OS="Any"/>
   <DownloadableArchives>Libraries.7z</DownloadableArchives>
-  <SHA1>259b476c7f9a883991bcc6283aa576a7e269a464</SHA1>
+  <SHA1>999dc0effc52e60eccb5482c5637b36c0f4500f6</SHA1>
  </PackageUpdate>
 </Updates>
